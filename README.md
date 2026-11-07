@@ -1,2 +1,13 @@
-# VLANs-VTP-Inter-VLAN-Routing-EtherChannel-STP
-Cisco Packet Tracer implementation of a simple network covering VLANs, VTP, Inter-VLAN Routing, EtherChannel, and Spanning Tree Protocol (STP)
+
+## Topics Covered
+
+- VLAN Configuration
+- VLAN Trunking Protocol (VTP)
+- Inter-VLAN Routing
+- EtherChannel
+- Spanning Tree Protocol (STP)
+
+## Tools Used
+
+- Cisco Packet Tracer
+- Cisco IOS CLI
